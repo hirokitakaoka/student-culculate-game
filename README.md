@@ -1,0 +1,2 @@
+# student-culculate-game
+中学生向けに基礎的な計算力をつけるためのwebアプリを作るためのリポジトリ
